@@ -1,0 +1,45 @@
+C:\Users\Aluno\Desktop\projetos\Cadastro Clientes\Cadastro Clientes\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Aluno\Desktop\projetos\Cadastro Clientes\Cadastro Clientes\bin\Debug\net5.0\appsettings.json
+C:\Users\Aluno\Desktop\projetos\Cadastro Clientes\Cadastro Clientes\bin\Debug\net5.0\Cadastro Clientes.exe
+C:\Users\Aluno\Desktop\projetos\Cadastro Clientes\Cadastro Clientes\bin\Debug\net5.0\Cadastro Clientes.deps.json
+C:\Users\Aluno\Desktop\projetos\Cadastro Clientes\Cadastro Clientes\bin\Debug\net5.0\Cadastro Clientes.runtimeconfig.json
+C:\Users\Aluno\Desktop\projetos\Cadastro Clientes\Cadastro Clientes\bin\Debug\net5.0\Cadastro Clientes.runtimeconfig.dev.json
+C:\Users\Aluno\Desktop\projetos\Cadastro Clientes\Cadastro Clientes\bin\Debug\net5.0\Cadastro Clientes.dll
+C:\Users\Aluno\Desktop\projetos\Cadastro Clientes\Cadastro Clientes\bin\Debug\net5.0\Cadastro Clientes.pdb
+C:\Users\Aluno\Desktop\projetos\Cadastro Clientes\Cadastro Clientes\bin\Debug\net5.0\Cadastro Clientes.Views.dll
+C:\Users\Aluno\Desktop\projetos\Cadastro Clientes\Cadastro Clientes\bin\Debug\net5.0\Cadastro Clientes.Views.pdb
+C:\Users\Aluno\Desktop\projetos\Cadastro Clientes\Cadastro Clientes\obj\Debug\net5.0\Cadastro Clientes.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\projetos\Cadastro Clientes\Cadastro Clientes\obj\Debug\net5.0\Cadastro Clientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\projetos\Cadastro Clientes\Cadastro Clientes\obj\Debug\net5.0\Cadastro Clientes.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\projetos\Cadastro Clientes\Cadastro Clientes\obj\Debug\net5.0\Cadastro Clientes.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\projetos\Cadastro Clientes\Cadastro Clientes\obj\Debug\net5.0\Cadastro Clientes.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\projetos\Cadastro Clientes\Cadastro Clientes\obj\Debug\net5.0\Cadastro Clientes.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aluno\Desktop\projetos\Cadastro Clientes\Cadastro Clientes\obj\Debug\net5.0\Cadastro Clientes.RazorAssemblyInfo.cache
+C:\Users\Aluno\Desktop\projetos\Cadastro Clientes\Cadastro Clientes\obj\Debug\net5.0\Cadastro Clientes.RazorAssemblyInfo.cs
+C:\Users\Aluno\Desktop\projetos\Cadastro Clientes\Cadastro Clientes\obj\Debug\net5.0\scopedcss\bundle\Cadastro Clientes.styles.css
+C:\Users\Aluno\Desktop\projetos\Cadastro Clientes\Cadastro Clientes\obj\Debug\net5.0\staticwebassets\Cadastro Clientes.StaticWebAssets.Manifest.cache
+C:\Users\Aluno\Desktop\projetos\Cadastro Clientes\Cadastro Clientes\obj\Debug\net5.0\staticwebassets\Cadastro Clientes.StaticWebAssets.Pack.cache
+C:\Users\Aluno\Desktop\projetos\Cadastro Clientes\Cadastro Clientes\obj\Debug\net5.0\staticwebassets\msbuild.Cadastro Clientes.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Aluno\Desktop\projetos\Cadastro Clientes\Cadastro Clientes\obj\Debug\net5.0\staticwebassets\msbuild.build.Cadastro Clientes.props
+C:\Users\Aluno\Desktop\projetos\Cadastro Clientes\Cadastro Clientes\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Cadastro Clientes.props
+C:\Users\Aluno\Desktop\projetos\Cadastro Clientes\Cadastro Clientes\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Cadastro Clientes.props
+C:\Users\Aluno\Desktop\projetos\Cadastro Clientes\Cadastro Clientes\obj\Debug\net5.0\Cadastro Clientes.TagHelpers.input.cache
+C:\Users\Aluno\Desktop\projetos\Cadastro Clientes\Cadastro Clientes\obj\Debug\net5.0\Cadastro Clientes.TagHelpers.output.cache
+C:\Users\Aluno\Desktop\projetos\Cadastro Clientes\Cadastro Clientes\obj\Debug\net5.0\Cadastro Clientes.RazorCoreGenerate.cache
+C:\Users\Aluno\Desktop\projetos\Cadastro Clientes\Cadastro Clientes\obj\Debug\net5.0\Razor\Views\Contato\Index.cshtml.g.cs
+C:\Users\Aluno\Desktop\projetos\Cadastro Clientes\Cadastro Clientes\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Aluno\Desktop\projetos\Cadastro Clientes\Cadastro Clientes\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Aluno\Desktop\projetos\Cadastro Clientes\Cadastro Clientes\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Aluno\Desktop\projetos\Cadastro Clientes\Cadastro Clientes\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Aluno\Desktop\projetos\Cadastro Clientes\Cadastro Clientes\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Aluno\Desktop\projetos\Cadastro Clientes\Cadastro Clientes\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Aluno\Desktop\projetos\Cadastro Clientes\Cadastro Clientes\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Aluno\Desktop\projetos\Cadastro Clientes\Cadastro Clientes\obj\Debug\net5.0\Cadastro Clientes.RazorTargetAssemblyInfo.cache
+C:\Users\Aluno\Desktop\projetos\Cadastro Clientes\Cadastro Clientes\obj\Debug\net5.0\Cadastro Clientes.RazorTargetAssemblyInfo.cs
+C:\Users\Aluno\Desktop\projetos\Cadastro Clientes\Cadastro Clientes\obj\Debug\net5.0\Cadastro Clientes.Views.pdb
+C:\Users\Aluno\Desktop\projetos\Cadastro Clientes\Cadastro Clientes\obj\Debug\net5.0\Cadastro Clientes.dll
+C:\Users\Aluno\Desktop\projetos\Cadastro Clientes\Cadastro Clientes\obj\Debug\net5.0\refint\Cadastro Clientes.dll
+C:\Users\Aluno\Desktop\projetos\Cadastro Clientes\Cadastro Clientes\obj\Debug\net5.0\Cadastro Clientes.pdb
+C:\Users\Aluno\Desktop\projetos\Cadastro Clientes\Cadastro Clientes\obj\Debug\net5.0\Cadastro Clientes.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\projetos\Cadastro Clientes\Cadastro Clientes\obj\Debug\net5.0\ref\Cadastro Clientes.dll
+C:\Users\Aluno\Desktop\projetos\Cadastro Clientes\Cadastro Clientes\obj\Debug\net5.0\Cadastro Clientes.csproj.CopyComplete
